@@ -15,4 +15,4 @@ refs.incrementButton.addEventListener('click', () => {
 refs.decrementButton.addEventListener('click', () => {
     counterValue -= 1;
     refs.output.textContent = counterValue;
-//});
+});
