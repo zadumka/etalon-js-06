@@ -30,4 +30,4 @@ function createItemsMarkup(images) {
 }
 
 refs.imagesList.style.display = 'flex';
-while (true) {}
+
