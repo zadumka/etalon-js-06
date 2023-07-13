@@ -1,3 +1,4 @@
+"use strict"
 const categoriesList = document.querySelector('#categories');
 console.log(`Number of categories:`, categoriesList.children.length);
 

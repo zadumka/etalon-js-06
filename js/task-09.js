@@ -1,3 +1,4 @@
+"use strict"
 const refs = {
     changeColorButton: document.querySelector('.change-color'),
     colorTextValue: document.querySelector('.color'),

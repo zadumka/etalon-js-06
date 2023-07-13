@@ -1,3 +1,4 @@
+"use strict"
 const refs = {
     output: document.querySelector('#value'),
     incrementButton: document.querySelector('[data-action="increment"]'),

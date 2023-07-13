@@ -1,3 +1,4 @@
+"use strict"
 const refs = {
     inputRange: document.querySelector('#font-size-control'),
     outputText: document.querySelector('#text'),

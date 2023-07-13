@@ -1,3 +1,4 @@
+"use strict"
 const refs = {
     inputName: document.querySelector('#name-input'),
     outputName: document.querySelector('#name-output'),

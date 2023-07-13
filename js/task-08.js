@@ -1,3 +1,4 @@
+"use strict"
 const refs = {
     loginForm: document.querySelector('.login-form'),
 };

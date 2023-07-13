@@ -1,3 +1,4 @@
+"use strict"
 const refs = {
     createMarkupButton: document.querySelector('[data-create]'),
     destroyMarkupButton: document.querySelector('[data-destroy]'),
